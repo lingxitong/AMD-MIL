@@ -1,4 +1,4 @@
 # AMD_MIL
 
 ## Network Structure
-![image]()
+![image](https://github.com/lingxitong/AMD_MIL/blob/main/network.png)
