@@ -1,5 +1,7 @@
 # AMD-MIL
-Agent Aggregator with Mask Denoise Mechanism for Histopathology Whole Slide lmage Analysis (ACM-MM24 under review)
+
+
+
 ## Agent Aggregator with Mask Denoise Mechanism for Histopathology Whole Slide lmage Analysis (ACM-MM24 under review)
 
 ## Network Structure
